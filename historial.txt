@@ -1,0 +1,99 @@
+    1  logout
+    2  ls
+    3  clear
+    4  ls
+    5  whoami
+    6  pwd
+    7  man man
+    8  man ls
+    9  ls -l
+   10  ls -la
+   11  ls -a
+   12  ls -la
+   13  clear
+   14  man apropos
+   15  man man 
+   16  man 6
+   17  man games
+   18  man man
+   19  games
+   20  play games
+   21  echo hola
+   22  echo "hola"
+   23  echo hola mundo
+   24  echo hola abuela como estas
+   25  echo $home
+   26  echo $HOME
+   27  ls
+   28  cd repogit
+   29  ls
+   30  /help
+   31  help
+   32  clear
+   33  ls
+   34  ls -la
+   35  cd ..
+   36  ls
+   37  cat README
+   38  cat README -la
+   39  celar
+   40  clear
+   41  cat README
+   42  cat
+   43  clear
+   44  git clone https://github.com/LautaroCardozo/cardozo_vagrant.git
+   45  ls
+   46  cd cardozo_vagrant
+   47  cd ..
+   48  cd cardozo_vagrant/
+   49  ls
+   50  ls-la
+   51  ls -ls
+   52  ls -la
+   53  cat README.md
+   54  cat README
+   55  clear
+   56  history
+   57  history >historial.txt
+   58  ls
+   59  cat historial.txt 
+   60  git status 
+   61  git status 
+   62  git commit -m "mi primer commit"
+   63  git config --global user.email "[200~lautycardozo01@gmail.com"
+   64  git config --global user.email "lautycardozo01@gmail.com"
+   65  git commit -m "mi primer commit"
+   66  git config --global user.email "lautycardozo01@gmail.com"
+   67  git commit -m "mi primer commit"
+   68  history
+   69  pwd
+   70  cd vagrant
+   71  ls
+   72  cd cardozo_vagrant/
+   73  ls
+   74  git status 
+   75  git commit -m
+   76  git commit -m "mi primer commit"
+   77  ls
+   78  cd cardozo_vagrant/
+   79  ls
+   80  git commit -m "mi primer commit"
+   81  git config --global user.name "LautaroCardozo"
+   82  git commit -m "mi primer commit"
+   83  git push "mi primer push"
+   84  git push cardozo_vagrant
+   85  git commit -m "mi primer commit"
+   86  git status
+   87  git push
+   88  git pushgit push
+   89  git push
+   90  ls -la
+   91  cd repogit
+   92  ls
+   93  git clone git@github.com:LautaroCardozo/cardozo_vagrant.git
+   94  ls
+   95  cd cardozo_vagrant/
+   96  lsls
+   97  ls
+   98  history
+   99  history > historial.txt
